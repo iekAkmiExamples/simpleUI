@@ -1,4 +1,4 @@
-# Launch Project
+# Simple UI
 
 ## Getting started
 
