@@ -3,6 +3,7 @@
 ## Getting started
 
 This is an introductory app with one view and some basic UI elements
+This is an introductory app with one view and some basic UI elements
 
 ## Download the project
 
@@ -17,6 +18,7 @@ This is an introductory app with one view and some basic UI elements
 
 ```
 cd to_your_directory
+
 git clone https://github.com/iekAkmiExamples/simpleUI.git
 ```
 
@@ -24,5 +26,6 @@ git clone https://github.com/iekAkmiExamples/simpleUI.git
 
 ```
 cd to_your_directory
+
 git clone git@github.com:iekAkmiExamples/simpleUI.git
 ```
